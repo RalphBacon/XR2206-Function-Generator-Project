@@ -1,4 +1,4 @@
-# XR2206-Function-Generator-Project
+# XR2206 Function Generator Project
 Build a cheap, simple function (signal, waveform) generator (not a sponsored project)
 # See video #97  at https://www.youtube.com/RalphBacon
 
